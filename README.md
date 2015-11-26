@@ -1,5 +1,5 @@
 # artificialneuralnetworkapplicationproject-klfcastillo
-INTegral Emergency RESponse Tool for Identifying Natural disaster Gravity (INTERESTING)
+INTegral Emergency RESponse Tool for Identifying Natural disaster Gravity (INTERESTING):
 Typhoon damage cost estimation using artificial neural network
 
 Karlos Castillo

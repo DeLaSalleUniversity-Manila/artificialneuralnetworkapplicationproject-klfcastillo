@@ -44,4 +44,6 @@ view(net)
 %figure, ploterrhist(e)
 %figure, plotregression(t,y)
 %figure, plotfit(net,x,t)
+figure, plotconfusion(t,y)
+
 
